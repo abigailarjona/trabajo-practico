@@ -1,0 +1,241 @@
+
+
+
+
+.logo{
+    width: 40%;
+    height: 40%;
+}
+
+
+
+.carousel-inner{
+    height: 600px;
+}
+    
+.carousel-item{
+    height: 100%;
+}
+
+
+h5{
+    color: white;
+    
+    text-align: right;
+    margin: 0.5%;
+}
+.texto-carrusel{
+    color: white;
+    text-align: right;
+    align-content: end;
+    margin: 0.5%;
+   
+
+}
+
+.no-grow{
+    flex-grow: 0 !important;
+}
+ 
+ 
+button{
+    margin: 30%;
+}
+
+
+.navbar-nav{
+    text-align: right;
+    margin-right: 40px;
+}
+
+.titulos-targetas{
+    text-align: center;
+
+}
+
+
+.card-title{
+    color: black;
+    text-align: left;
+}
+.card-text{
+    color: black;
+    text-align: left;
+}
+.card{
+    margin: 10px;
+     padding: 0%!important;
+
+
+}
+
+.card-img-top{
+   width: 100%;
+}
+.BP{
+    padding: 0.075rem 0.2rem!important;
+    font-size: 0.7rem!important;
+}
+.BV{
+    background-color: #37ccc5!important;
+    border-color: #37ccc5!important;
+}
+.BI{
+    background-color: rgb(77, 161, 28)!important;
+    border-color:rgb(77, 161, 28)!important;
+}
+ /* .img-fluid {
+    max-width: 60%!important;
+    height: 100%!important;
+ }
+
+
+
+
+
+/* esto es pantalla dividida*/
+
+
+
+.imagen-playa{
+    background-color: dimgrey;
+    align-items: flex-end;
+}
+
+
+   .col1{
+       height: 50%;
+       width: 50%;
+   }
+
+   .derecha{
+       background: rgb(47, 46, 51);
+       height: 70vh;
+       width: 50%;
+       text-align: left!important;
+       color: white;
+       margin-left: 1px;
+       padding: 15px;
+
+   }
+   .izquierda{
+       background: url(honolulu.jpg);
+       background-size: cover;
+       background-position: center;
+       width: 50%;
+       height: 70vh;
+   }
+   #mitad-pantalla{
+       display: flex;
+   }
+
+
+   .t-imagen{
+       color: white;
+   }
+.boton{
+   background: rgb(47, 46, 51)!important;
+}
+
+
+/* formulario*/
+.contenedor{
+   /* background-color: aqua;*/
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 1000%;
+    
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    overflow: hidden;
+    
+   
+}
+.chicos{
+    justify-content: center;
+    width: 100%;
+    border-color: rgb(173, 169, 169);
+    border-radius: 3%;
+    
+
+   
+
+}
+.cuadro48{
+    width: 45%;
+    justify-content: center;
+    margin: 15px;
+    height: 15%;
+    padding: 10px;
+    
+}
+.cuadro100{
+    margin: 15px;
+    width: 93%;
+    height: 40%;
+    border-color: rgb(173, 169, 169);
+    border-radius: 1%;
+}
+
+.bfinal{
+    width: 93%;
+    margin-left: 1%;
+    background-color: rgb(160, 216, 77)!important;
+    border-color:rgb(125, 173, 54)!important;
+    
+}
+
+.h6fina{
+    color: rgb(142, 149, 149);
+    margin-left: 15px;
+    
+}
+
+.t5{
+    text-align: center;
+    color: rgb(71, 69, 69);
+}
+
+.t1{
+    text-align: center;
+}
+.p5{
+    text-align: center;
+    color: rgb(84, 83, 83);
+}
+
+
+
+
+
+
+
+
+
+
+/* esto es del pie de pagina*/
+
+.lista{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    width: 100%!important;
+    justify-content: center;
+
+}
+.pie{
+    background-color: rgb(26, 55, 78);
+    padding: 10px;
+    margin-top: 20px;
+    align-content: center;
+}
+.pie-li{
+    padding: 15px;
+    margin-left: 10px;
+}
+.texto-pie{
+    color: white;
+    text-decoration: none;
+}
